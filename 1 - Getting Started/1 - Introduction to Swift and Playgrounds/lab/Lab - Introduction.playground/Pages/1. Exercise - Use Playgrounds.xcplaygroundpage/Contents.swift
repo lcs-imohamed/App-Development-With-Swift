@@ -7,18 +7,32 @@ print("I have learned the following:")
 print("What features make Swift a modern and safe language")
 print("How to use the Swift REPL in Terminal")
 print("How to use playgrounds to make writing Swift fun and simple")
+print("I have learned that swift was specifically designed with safety and speed in mind.")
+print("Error handling,type safety, and a clean easy to read syntax make swift a modern and safe language.")
+print("Type the word swift and press enter. To quit type :quit. ")
+print("open Xcode and create a new playground file. Choose IOS format and a blank template. Start typing your first line of code.")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-print("My name is Ilana MEEEEEEEEEEEEP")
+print("Title: I'm Born to Run")
+print("By: American Authors")
+
 
 
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
+print("I'm born to run, down rocky cliffs")
+print("Give me grace, bury my sins")
+print("Shattered glass and black holes")
+print("Can't hold me back from where I need to go")
 
+print("I'm gonna live my life like I'm gonna die young")
+print("Like it's never enough, like I'm born to run")
 
+print("I wanna see Paris, I wanna see Tokyo")
+print("I wanna be careless, even if I break my bones")
 
 /*:
 
