@@ -12,10 +12,15 @@
  - Average heart rate: The user's average heart rate over the last 24 hours
  */
 let name = "Lisa"
+print("Name is a constant because the person's name doesn't change.")
 var age = 21
+print("Age is a variable because age will increase after time.")
 var numberSteps = 8000
+print("Number of steps is a variable because it will change from day to day.")
 let goalSteps = 10000
+print("Step goal is a constant because it is an unchanging value and goal.")
 var avgHeartRate = 70
+print("Average heart rate is a variable because it changes day to day.")
 
 
 
