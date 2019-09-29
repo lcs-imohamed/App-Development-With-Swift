@@ -3,12 +3,12 @@
  
  Declare a variable called `name` of type `String`, but do not give it a value. Print `name` to the console. Does the code compile? Remove any code that will not compile.
  */
-
+var name = ""
 
 /*:
  Now assign a value to `name`, and print it to the console.
  */
-
+let name = 20
 
 /*:
  Declare a variable called `distanceTraveled` and set it to 0. Do not give it an explicit type.
