@@ -9,7 +9,8 @@
  */
 let firstName = "Anne"
 let lastName = "Cuthbert"
-
+let fullName = firstName + "" + lastName
+print(fullName)
 /*:
  Occasionally users of your fitness tracking app will beat previous goals or records. You may want to notify them when this happens for encouragement purposes. Create a new constant `congratulations` and assign it a string literal that uses string interpolation to create the following string:
  
@@ -20,6 +21,7 @@ let lastName = "Cuthbert"
 let previousBest = 14392
 let newBest = 15125
 
-let congratulations = "Congratulations, \(fullName)! You beat your previous daily high score of \(previousBest)"
+let congratulations = "Congratulations, \(fullName)! You beat your previous daily high score of \(previousBest) by walking \(newBest) steps yesterday"
+print(congratulations)
 
 //: [Previous](@previous)  |  page 3 of 5  |  [Next: Exercise - String Equality and Comparison](@next)
